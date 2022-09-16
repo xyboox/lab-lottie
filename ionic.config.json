@@ -1,0 +1,7 @@
+{
+  "name": "lab-lottie",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

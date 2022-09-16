@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "lab-lottie",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
